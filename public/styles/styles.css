@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+}
+.form{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.input{
+  text-align: center;
+  font-size: medium;
+}
+select{
+  text-align: center;
+}
+.nan{
+  color: red;
+  font-style: bold;
+  text-align: center;
+}
