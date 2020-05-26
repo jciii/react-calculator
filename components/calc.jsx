@@ -44,7 +44,6 @@ export default () => {
       <div className="nan">
         {(total === null) ? 'Please input a number value in the boxes' : null}
       </div>
-
     </div>
   )
 }
